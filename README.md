@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimspith&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Hello everyone
 My name is Dimitris Spythouris and i'm a CompSci student. I usually fiddle with many different programming languages, especially functional ones.
 My favorites are **Clojure**, **Elixir** and **Nim**.
